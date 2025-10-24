@@ -1,11 +1,11 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.3-blossom-20251014-1357-VANILLA-UNOFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/blossom/16/vanilla/Project_Infinity-X-3.3-blossom-20251014-1357-VANILLA-UNOFFICIAL.zip",
-                        "timestamp": 1760450142,
-                        "md5": "3a26b53ba44e86ab09c07a8f34e8711b",
-                        "size": 1346765159,
+                        "filename": "Project_Infinity-X-3.3-blossom-24-10-2025-VANILLA-OFFICIAL.zip",
+                        "download": "https://github.com/Apichat1234inwza007/ProjectInfinityX_ota_package/releases/download/Project_Infinity-X-3.3-blossom-24-10-2025-VANILLA-OFFICIAL/Project_Infinity-X-3.3-blossom-24-10-2025-VANILLA-OFFICIAL.zip",
+                        "timestamp": 1761335650,
+                        "md5": "63c49d8748ffc3ae041aae2a62e5c3cf",
+                        "size": 1341282468,
                         "version": "3.3"
                 }
         ]
